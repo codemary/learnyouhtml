@@ -36,7 +36,7 @@ This workshopper has 11 exercises that cover the most important aspects of HTML.
 Open your terminal and run this command:
 
 ```
-npm install -g learnyouhtml
+npm install -g cmlearnyouhtml
 ```
 
 Use `sudo` if you get an `EACCESS` error.
@@ -46,7 +46,7 @@ Use `sudo` if you get an `EACCESS` error.
 Open your terminal and run the following command:
 
 ```
-learnyouhtml
+cmlearnyouhtml
 ```
 
 ## License
