@@ -11,17 +11,7 @@ const learnyouhtml = workshopper({
 });
 
 learnyouhtml.addAll([
-  'HELLO WORLD',
-  'TAGS',
-  'ATTRIBUTES',
-  'INLINE TAGS',
-  'HEADINGS',
   'LISTS',
-  'TABLES',
-  'BLOCKS',
-  'LINKS AND REFERENCES',
-  'FORMS',
-  'STYLES AND SCRIPTS',
 ]);
 
 module.exports = learnyouhtml;
